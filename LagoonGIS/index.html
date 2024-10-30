@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lagoon Amusement Park GIS</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://js.arcgis.com/4.28/"></script>
+</head>
+<body>
+  <div id="filter">
+    <label for="typeFilter">Filter by Type:</label>
+    <select id="typeFilter">
+      <option value="All">All</option>
+      <option value="Coaster">Coaster</option>
+      <option value="X Venture">Xventure</option>
+      <option value="Family Ride">Family Ride</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+  <div id="viewDiv"></div>
+  <script src="script.js"></script>
+</body>
+</html>
