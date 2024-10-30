@@ -8,8 +8,6 @@ The data used in this software is sourced from Lagoon Amusement Park's public we
 
 I wrote this program to become more familiar with web design and the development of GIS software. It is my hope to present a mock "map" webpage and app to Lagoon's Leadership Team in hopes that it will be improved upon and made public in the future.
 
-TODO {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
 [Lagoon Amusement Park Map](https://youtu.be/U1_ux80okbY?si=Z6l7atJ2M2n2djvy)
 
 # Development Environment
